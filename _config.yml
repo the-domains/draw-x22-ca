@@ -1,0 +1,28 @@
+name: draw.x22.ca
+favicon: null
+layout_spectrum: 0.47636093641631305
+typography_spectrum: 0.6163206067867577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3400609726086259
+  lightness: 0.4039936102926731
+  saturation: 0.06389287882484496
+  rhythmicContrast: 0.021704442566260695
+purpose: []
